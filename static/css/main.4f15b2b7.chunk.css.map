@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,SACE,sCAAyC,CACzC,eAAgB,CAChB,eAAgB","file":"main.4f15b2b7.chunk.css","sourcesContent":["// style go here\n.article {\n  font-family: Arial, Helvetica, sans-serif;\n  font-size: 1.1em;\n  line-height: 1.5;\n}\n"]}
